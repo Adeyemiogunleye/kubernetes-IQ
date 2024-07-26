@@ -1,5 +1,5 @@
 #
-#  Interview Questions Set for Kubernetes
+#  I Q Set for Kubernetes
 #
 ##          Mamun Rashid
 ##
